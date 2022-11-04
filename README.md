@@ -27,4 +27,17 @@ Of the 94 paid video game reviews, 48 of them were given a 5 star rating. That e
 
 Of the 40,471 unpaid video game reviews, 15,663 of them gave a 5 star rating. That equates to 38.70% of all unpaid reviews.
 
+
+### AMAZON VIDEO GAME REVIEWS QUICK STATS
+Paid Review Quick Stats
+- 94 Total Paid Reviews
+- 48 5 Star Ratings
+- 51% 5 Stars
+
+
+Unpaid Review Quick Stats
+- 40,471 Total Unpaid Reviews
+- 15,663 5 Star Ratings
+- 38% 5 Stars
+
 In the relatively small sample size of only 94 paid reviews, there was a noticeable bias of 13%, a jump of roughly 1/3rd the unpaid score. One way to check if this is accurate is to view the total number of 1 star, 2 star, 3 star, and 4 star reviews for both paid and unpaid video games. More measuring points would provide a more accurate reading of possible bias.
